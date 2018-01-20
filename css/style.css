@@ -1,0 +1,46 @@
+.bodycls{
+  background-color: #3B3131;
+  background-image: url(http://www.pptback.com/uploads/black-floral-patterns-backgrounds-powerpoint.jpg);
+}
+.maincls{
+  
+  margin: 10px 30px 10px 30px;
+  padding: 10px;
+}
+.headercls{
+  margin: 20px;
+ background-color:#85929E;
+  padding: 30px;
+  border: solid;
+  opacity:.7;
+}
+.headercls.conetnt{opacity:1;}
+.contentcls{
+  background-color:#BDBCBA;
+  margin: 20px;
+  padding: 50px;
+  border:solid;
+  text-align:center;
+}
+.contenttext{
+  font-size:16px;
+  font-family: serif;
+  color:#000;
+  text-align:left;
+}
+.imgcls{
+  width: 95%;
+  border:solid;
+  border-raduis:.40em;
+  
+}
+.advanturescls{
+  background-color:#666362;
+  width: 80%;
+  margin: 20px 70px 20px 70px;
+  padding: 10px;
+  border:solid;
+}
+.imgthumb{
+  width:100px;
+}
